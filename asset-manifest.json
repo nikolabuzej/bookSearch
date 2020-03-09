@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nikolabuzej/bookSearch.git/static/css/main.f2944620.chunk.css",
+    "main.js": "/nikolabuzej/bookSearch.git/static/js/main.ab18bd74.chunk.js",
+    "main.js.map": "/nikolabuzej/bookSearch.git/static/js/main.ab18bd74.chunk.js.map",
+    "runtime-main.js": "/nikolabuzej/bookSearch.git/static/js/runtime-main.e173c89e.js",
+    "runtime-main.js.map": "/nikolabuzej/bookSearch.git/static/js/runtime-main.e173c89e.js.map",
+    "static/js/2.0127c7f7.chunk.js": "/nikolabuzej/bookSearch.git/static/js/2.0127c7f7.chunk.js",
+    "static/js/2.0127c7f7.chunk.js.map": "/nikolabuzej/bookSearch.git/static/js/2.0127c7f7.chunk.js.map",
+    "index.html": "/nikolabuzej/bookSearch.git/index.html",
+    "precache-manifest.52aceb776e2e6b171f582f776b8ca54f.js": "/nikolabuzej/bookSearch.git/precache-manifest.52aceb776e2e6b171f582f776b8ca54f.js",
+    "service-worker.js": "/nikolabuzej/bookSearch.git/service-worker.js",
+    "static/css/main.f2944620.chunk.css.map": "/nikolabuzej/bookSearch.git/static/css/main.f2944620.chunk.css.map",
+    "static/js/2.0127c7f7.chunk.js.LICENSE.txt": "/nikolabuzej/bookSearch.git/static/js/2.0127c7f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e173c89e.js",
+    "static/js/2.0127c7f7.chunk.js",
+    "static/css/main.f2944620.chunk.css",
+    "static/js/main.ab18bd74.chunk.js"
+  ]
+}
